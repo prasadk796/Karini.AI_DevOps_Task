@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-code
-        image: prasadk2/my_task:v2
+        image: prasadk2/karin:v2
         ports:
         - containerPort: 80
         resources:
