@@ -1,1 +1,3 @@
 LoadBalancer IP: http://acc09d137f0e54955b823106a7a9b79e-398711335.us-east-1.elb.amazonaws.com/
+
+DockerHub public repo link: prasadk2/karin:v2
